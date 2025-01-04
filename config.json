@@ -6,13 +6,13 @@
 		"timeout": 150
 	},
 	{
-		"name": "Vipor1",
+		"name": "Vipor2",
         	"url": "stratum+tcp://ca.vipor.net:5140",
 		"timeout": 150
 	},
 	{
 		"name": "Vipor3",
-        	"url": "stratum+tcp://us.vipor.net:5040",
+        	"url": "stratum+tcp://ca.vipor.net:5040",
 		"timeout": 150
 	}
 	],
